@@ -3,7 +3,7 @@ Criei esse repositório como uma forma de participar dos 100 dias de código, qu
 | Dia | Desafio |
 | --- | ------- |
 | 01  | Landing Page com Angular |
-| 02  |         |
+| 02  | Exercícios de Python da faculdade|
 | 03  |         |
 | 04  |         |
 | 05  |         |
